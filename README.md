@@ -1,2 +1,23 @@
-# project_house_rocket
+# House Rocket Analysis 
 O projeto apresenta insights sobre o conjunto de dados da plataforma House Rocket que tem como modelo de negócio comprar imóveis com baixo preço e vender com preço alto.
+
+# Contexto
+
+# Questão de negócio 
+
+# Entendimento do negócio 
+
+# Dados
+
+# Hipóteses 
+
+# Etapas de solução 
+
+<b>1. Análise descritiva dos dados<b/>
+
+<b>2. Análise exploratória dos dados<b/>
+
+# Próximos passos 
+
+# Referências 
+Disponível em: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
