@@ -3,7 +3,8 @@ O projeto apresenta insights sobre o conjunto de dados da plataforma House Rocke
 
 # Contexto
 
-# Questão de negócio 
+# Questão de negócio
+O CEO da empresa gostaria de maximizar o lucro da empresa encontrando bons negócio.
 
 # Entendimento do negócio 
 
