@@ -12,10 +12,6 @@
 ótimo potencial de revenda por um preço mais alto. E quer encontrar as melhores oportunidades de compra de imóveis do portfólio da House Rocket e o time de negócios não consegue tomar boas decisões de compra sem analisar os dados. 
   - A empresa possui um portfolio muito grande o que demanda tempo para realizar um trabalho manual, afim de resolver a questão foi necessário utilizar ciência de dados e assim obter visualizações e insights importantes para a tomada de decisão. 
   
-# Premissas de negócio
-- O que você está assumindo para realizar o projeto ?
- 
-
 # Dados
 - id: ID único para cada casa vendida
 - date: Data da venda da casa
@@ -39,6 +35,8 @@
 - sqft_living15: A metragem quadrada do espaço interno de habitação para os 15 vizinhos mais próximos
 - sqft_lot15: A metragem quadrada dos lotes de terreno dos 15 vizinhos mais próximos
 
+# Premissas de negócio
+- O que você está assumindo para realizar o projeto ?
 
 # Estratégia de solução
 - Coleta dos Dados
