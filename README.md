@@ -1,5 +1,5 @@
 # House Rocket Analysis 
-  - O projeto apresenta insights sobre o conjunto de dados da empresa House Rocket que tem como modelo de negócio comprar e vender imóveis com o melhor preço de mercado e para isso será realizada análise e manipulação dos dados para auxiliar na tomada de decisão pelo time de negócio.
+  - O projeto apresenta insights sobre o conjunto de dados da empresa House Rocket que tem como modelo de negócio comprar e vender imóveis com o melhor preço de mercado e para isso será realizada manipulação e análise dos dados para auxiliar na tomada de decisão pelo time de negócio.
 
 # Questão de negócio
 
@@ -10,7 +10,7 @@
   
   - O CEO da empresa gostaria de maximizar o lucro da companhia encontrando bons negócios, como casas com preço baixo, em ótima localização e que tenham um
 ótimo potencial de revenda por um preço mais alto. E quer encontrar as melhores oportunidades de compra de imóveis do portfólio da House Rocket e o time de negócios não consegue tomar boas decisões de compra sem analisar os dados. 
-  - A empresa possui um portfolio muito grande o que demanda tempo para realizar um trabalho manual, afim de resolver a questão foi necessário utilizar ciência de dados e assim obter visualizações e insights importantes para a tomada de decisão. 
+  - A empresa possui um portfolio muito grande o que demanda tempo para realizar um trabalho manual, para resolver a questão foi necessário utilizar ciência de dados e assim obter visualizações e insights importantes na tomada de decisão. 
   
 # Dados
 - id: ID único para cada casa vendida
